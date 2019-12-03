@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /:about.md/
+permalink: about.md
 layout: page
 ---
 
