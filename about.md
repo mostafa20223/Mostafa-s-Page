@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: default
 ---
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
