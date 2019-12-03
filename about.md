@@ -1,5 +1,7 @@
 ---
 title: About
+permalink: /:about.md/
+layout: page
 ---
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
