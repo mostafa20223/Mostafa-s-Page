@@ -16,7 +16,7 @@ layout: page
 
 <h2> Skills </h2>
 <ul>
-	<li> HTML </li
+	<li> HTML </li>
 	<li> CSS </li>
 	<li> Python </li>
 	<li> MySQL </li>
