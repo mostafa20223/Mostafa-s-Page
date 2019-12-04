@@ -7,7 +7,7 @@ layout: page
 
 <br>
 
-<h2> Details </h2>
+<h2 align = "left"> Details </h2>
 <ul>
 	<li> Name: Mostafa Yehia </li>
 	<li> Age: 20 </li>
