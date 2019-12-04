@@ -5,7 +5,9 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<h1> Details </h1>
+<br>
+
+<h2> Details </h2>
 <ul>
 	<li> Name: Mostafa Yehia </li>
 	<li> Age: 20 </li>
