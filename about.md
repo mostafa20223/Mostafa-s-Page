@@ -9,12 +9,10 @@ layout: page
 
 <h2 align = "left"> Details </h2>
 <ul>
-	<li> Name: Mostafa Yehia </li>
-	<li> Age: 20 </li>
-	<li> Phone No.: 201098961492 </li>
-</ul>	
-
-<hr>
+	<li> Name: Mustafa Yehia </li>
+	<li> Age: 22 </li>
+	<li> Phone No.: +201098961492 </li>
+</ul>
 
 <h2> Skills </h2>
 <ul>
