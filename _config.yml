@@ -1,6 +1,6 @@
 # main text of home
-name: Mostafa Yehia
-bio: A student in 3rd year at SBME - CUFE
+name: Mustafa Yehia
+bio: A senior student for SBME - CUFE
 
 # twitter summary info
 description: A personal blog about
@@ -8,7 +8,7 @@ description: A personal blog about
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/mostafa.jpg
+picture: assets/images/MY1.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -36,7 +36,7 @@ disqus:
 # if you don't have any of social below, comment the line
 facebook: 'moustafayehia201'
 twitter: '@Mostafa90746356'
-linkedin: 'mostafa-yehia-541781153'
+linkedin: 'mustafa-yehia1'
 github: 'mostafa20223'
 email: 'mustafayehia4@gmail.com'
 
@@ -55,6 +55,7 @@ width: normal
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
+GP: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
